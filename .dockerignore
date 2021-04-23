@@ -1,0 +1,7 @@
+# git
+.git
+.gitattributes
+.gitignore
+# Common
+docker-compose.yml
+Dockerfile
